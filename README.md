@@ -46,7 +46,7 @@ I'm a passionate Backend Developer currently studying Frontend Development at SM
 
 📧 Email: 
 - Personal: dikagilang2007@gmail.com
-- Business: business@zephyr-id.tech
+- Business: intechofficialteam@gmail.com
 
 ## 🌟 Quick Highlights
 - 🏫 Student at SMK Telkom Purwokerto
