@@ -52,3 +52,7 @@ I'm a passionate Backend Developer currently studying Frontend Development at SM
 - 🏫 Student at SMK Telkom Purwokerto
 - 💻 Exploring multiple programming languages and frameworks
 - 🌱 Continuous learner passionate about web and mobile development
+
+## 🏆 competition awards
+- 🏆 2nd place winner of Seventup Hackathon competition ( Telkom University )
+- 🏆 1st place in the Dinacom 2025 Website Development competition ( Udinus University )
