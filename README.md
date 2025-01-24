@@ -38,8 +38,8 @@ I'm a passionate Backend Developer currently studying Frontend Development at SM
 ## 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dikaproject&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dikaproject&show_icons=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dikaproject&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true)](https://git.io/streak-stats)
-
+[[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dikaproject&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true)](https://github-readme-streak-stats.herokuapp.com/?user=dikaproject)
+]
 ## 📬 Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rasya-dika-pratama-091204269)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/dikaprojectid)
