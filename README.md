@@ -5,7 +5,7 @@ I'm a passionate Backend Developer currently studying Frontend Development at SM
 
 ### 🎓 Current Focus
 - 🌱 Learning: Laravel, React, Next.js, NestJS
-- 💻 Specializing in: PHP, Kotlin, C#
+- 💻 Specializing in: PHP, JS, Dart, Typescript, C#
 
 ## 🛠️ Tech Stack
 
