@@ -58,4 +58,4 @@ I'm a passionate Backend Developer currently studying Frontend Development at SM
 ## 🏆 competition awards
 - 🏆 2nd place winner of Seventup Hackathon competition ( Telkom University )
 - 🏆 1st place in the Dinacom 2025 Website Development competition ( Udinus University )
-- 🏆 2nd place in ITC Udinus 2025 Semarang competition
+- 🏆 2nd place in ITC Udinus 2025 Semarang competition ( Udinus University )
