@@ -4,7 +4,7 @@
 I'm a passionate Backend Developer currently studying Frontend Development at SMK Telkom Purwokerto. My goal is to become a versatile full-stack developer with strong skills across multiple technologies.
 
 ### 🎓 Current Focus
-- 🌱 Learning: Laravel, React, Next.js, NestJS
+- 🌱 Learning: Laravel, React, Next.js, NestJS, Rust, Golang
 - 💻 Specializing in: PHP, JS, Dart, Typescript, C#
 
 ## 🛠️ Tech Stack
