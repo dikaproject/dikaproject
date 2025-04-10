@@ -60,4 +60,10 @@ I'm a passionate Backend Developer currently studying Frontend Development at SM
 - 🥇 1st place in the Dinacom 2025 Website Development competition ( Udinus University )
 - 🥈 2nd place winner of Seventup Hackathon competition ( Telkom University )
 - 🥈 2nd place in ITC Udinus 2025 Semarang competition ( Udinus University )
-- 🚀 Runner Up 3rd place Dragon Hacks, Hackathon competition Jakarta Intercultural School 
+- 🚀 Runner Up 3rd place Dragon Hacks, Hackathon competition Jakarta Intercultural School
+
+
+## 💼 internship & personal experience
+- 👨‍💻 Internship at INSEAA as Backend Developer
+- 👨‍💻 Internship at Atdag Canberra Australia as Fullstack Developer
+- 👨‍💻 Remaking the Bukusaku system / violation point management at SMK Telkom Purwokerto  
