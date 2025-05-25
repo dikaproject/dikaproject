@@ -1,9 +1,9 @@
 # Hi there! I'm Rasya Dika Pratama 👋
 
 ## 🚀 About Me
-💻 I'm a passionate Backend Developer, currently studying Frontend Development at Telkom University Purwokerto.
-🚀 I'm the Founder of Intech Digital Solution and the initiator of Intech Academy.
-🎯 My current goal is to focus on building Intech Academy — an upcoming platform designed to help others learn technology and gain real-world skills in software development.
+- 💻 I'm a passionate Backend Developer, currently studying Frontend Development at Telkom University Purwokerto.
+- 🚀 I'm the Founder of Intech Digital Solution and the initiator of Intech Academy.
+- 🎯 My current goal is to focus on building Intech Academy — an upcoming platform designed to help others learn technology and gain real-world skills in software development.
 
 ### 🎓 Current Focus
 - 🌱 Learning: Laravel, React, Next.js, NestJS, Rust, Golang
