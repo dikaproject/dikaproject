@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 💻 I'm a passionate Backend Developer, currently studying Frontend Development at Telkom University Purwokerto.
-- 🚀 I'm the Founder of Intech Digital Solution and the initiator of Intech Academy.
+- 🚀 I'm the Founder of IntechCode Enterprise and the initiator of Intech Academy.
 - 🎯 My current goal is to focus on building Intech Academy — an upcoming platform designed to help others learn technology and gain real-world skills in software development.
 
 ### 🎓 Current Focus
@@ -53,7 +53,7 @@
 - Business: intechofficialteam@gmail.com
 
 ## 🌟 Quick Highlights
-- 🏫 Student at SMK Telkom Purwokerto
+- 🏫 Learning at Telkom University Purwokerto
 - 💻 Exploring multiple programming languages and frameworks
 - 🌱 Continuous learner passionate about web and mobile development
 
