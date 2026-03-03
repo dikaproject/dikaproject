@@ -1,4 +1,4 @@
-# Hi there! I'm Rasya Dika Pratama 👋
+# Hii there! I'm Rasya Dika Pratama 👋
 
 ## 🚀 About Me
 - 💻 I'm a passionate Backend Developer, currently studying Frontend Development at Telkom University Purwokerto.
