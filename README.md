@@ -123,6 +123,9 @@
 
 | 🏢 Company / Organization | 💼 Role |
 |:--------------------------|:--------|
+| **NexusCloud Technology** | Fullstack Developer Website |
+| **IntechCode Enterprise** | Founder |
+| **Inxora Studio** | Founder |
 | **INSEAA** | Backend Developer Intern |
 | **Atdag Canberra, Australia** | Fullstack Developer Intern |
 | **SMK Telkom Purwokerto** | Rebuilt Bukusaku — Violation Point Management System |
@@ -145,6 +148,10 @@
 ---
 
 <div align="center">
+
+<img src="./assets/pacman.svg" alt="Pac-Man Animation" width="600"/>
+
+<br/><br/>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> &nbsp; <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
 
