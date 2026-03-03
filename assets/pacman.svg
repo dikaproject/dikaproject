@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 40" width="600" height="40">
+  <!-- Dots that disappear as Pac-Man passes -->
+  <circle cx="80" cy="20" r="4" fill="#6AD3F7">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.06;0.07;1" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="140" cy="20" r="4" fill="#6AD3F7">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.15;0.16;1" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="200" cy="20" r="4" fill="#6AD3F7">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.24;0.25;1" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="260" cy="20" r="4" fill="#6AD3F7">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.33;0.34;1" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="320" cy="20" r="4" fill="#6AD3F7">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.42;0.43;1" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="380" cy="20" r="4" fill="#6AD3F7">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.51;0.52;1" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="440" cy="20" r="4" fill="#6AD3F7">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.60;0.61;1" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="500" cy="20" r="4" fill="#6AD3F7">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.69;0.70;1" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="560" cy="20" r="4" fill="#6AD3F7">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.78;0.79;1" dur="8s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Pac-Man -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0,0;540,0" dur="8s" repeatCount="indefinite"/>
+    <!-- Pac-Man body with animated mouth using arc path -->
+    <path fill="#FFD700">
+      <animate attributeName="d"
+        values="M20,20 L36,8 A18,18 0 1,1 36,32 Z;M20,20 L38,19 A18,18 0 1,1 38,21 Z;M20,20 L36,8 A18,18 0 1,1 36,32 Z"
+        dur="0.4s" repeatCount="indefinite"/>
+    </path>
+    <!-- Eye -->
+    <circle cx="24" cy="10" r="3" fill="#1a1a2e"/>
+  </g>
+</svg>
